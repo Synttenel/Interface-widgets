@@ -4,7 +4,7 @@ import "./App.css";
 import type { Screens } from "./Screens";
 
 import MainMenu from "./MainMenu";
-import WeatherWidget  from "./WeatherWidget";
+import WeatherWidget  from "./weatherWidget/WeatherWidget";
 
 
 import widgetBg from './widgetBg.jpg'
